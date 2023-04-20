@@ -21,10 +21,12 @@
     <script>
         $(document).ready(function() {
             $('#load-results').on('click', function() {
-                $.getJSON('output.json', function(result) {
-                    var output = '';
-                    for (var link_text in result) {
-                        output += `
+                $.ajax({
+                    url: 'output.json',
+                    dataType: 'json',
+                    contentType: 'application/json;charset=utf-8',
+                    success: function(result) {
+                        var output = `
                             <div class="card mt-3">
                                 <div class="card-header">
                                     <h5 class="mb-0">
