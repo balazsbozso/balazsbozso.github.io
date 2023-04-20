@@ -44,8 +44,11 @@
 
     <script>
         function loadResults() {
+            var url = 'output.json';
+            var cacheBustingUrl = url + '?t=' + new Date().getTime(); // Add timestamp to the URL
+
             $.ajax({
-                url: 'output.json',
+                url: cacheBustingUrl,
                 dataType: 'json',
                 contentType: 'application/json;charset=utf-8',
                 success: function(result) {
@@ -91,5 +94,4 @@
             });
         });
     </script>
-</body>
-</html>
+</body
