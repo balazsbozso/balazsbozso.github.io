@@ -56,7 +56,7 @@ for link_text, options_list in grouped_options.items():
         print(f"    URL: {option_url}")
 
 def save_to_json_file(result, filename):
-    with open(filename, 'w') as f:
+    with open(filename, 'w', encoding ='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=4)
 
 def run_script():
