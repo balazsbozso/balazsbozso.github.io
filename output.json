@@ -1,0 +1,1075 @@
+{
+    "2022/2023": [
+        {
+            "text": "Férfi OB1",
+            "value": "24",
+            "url": "http://hunfloorball.hu/index.php?ch_id=24&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "    Férfi OB1 rájátszás",
+            "value": "36",
+            "url": "http://hunfloorball.hu/index.php?ch_id=36&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "    Férfi Ligakupa",
+            "value": "37",
+            "url": "http://hunfloorball.hu/index.php?ch_id=37&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "Nõi OB",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "OB2",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "Fiú U19",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Fiú U16",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Lány U16",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Fiú U14",
+            "value": "28",
+            "url": "http://hunfloorball.hu/index.php?ch_id=28&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "Lány U14",
+            "value": "31",
+            "url": "http://hunfloorball.hu/index.php?ch_id=31&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Unihoki Fiú U15",
+            "value": "32",
+            "url": "http://hunfloorball.hu/index.php?ch_id=32&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Unihoki Lány U15",
+            "value": "33",
+            "url": "http://hunfloorball.hu/index.php?ch_id=33&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "Unihoki Fiú U13",
+            "value": "26",
+            "url": "http://hunfloorball.hu/index.php?ch_id=26&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2021/2022": [
+        {
+            "text": "Férfi OB1",
+            "value": "24",
+            "url": "http://hunfloorball.hu/index.php?ch_id=24&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "Nõi OB",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "OB2",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "    OB2 rájátszás",
+            "value": "29",
+            "url": "http://hunfloorball.hu/index.php?ch_id=29&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Utánpótlás Lány U21",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "Utánpótlás Fiú U16",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Utánpótlás Lány U16",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Nagypálya U13",
+            "value": "28",
+            "url": "http://hunfloorball.hu/index.php?ch_id=28&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Unihoki Fiú U13",
+            "value": "26",
+            "url": "http://hunfloorball.hu/index.php?ch_id=26&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "Unihoki Lány U13",
+            "value": "25",
+            "url": "http://hunfloorball.hu/index.php?ch_id=25&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Unihoki U11",
+            "value": "14",
+            "url": "http://hunfloorball.hu/index.php?ch_id=14&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Unihoki U9",
+            "value": "15",
+            "url": "http://hunfloorball.hu/index.php?ch_id=15&pg=floorball_matches&year=0910"
+        }
+    ],
+    "2020/2021": [
+        {
+            "text": "Salming Férfi OB1",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "Salming Nõi OB",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "Férfi OB2",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "    Férfi OB2 Kelet",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "    Férfi OB2 Nyugat",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "    Férfi OB2 Rájátszás - Alsóház",
+            "value": "19",
+            "url": "http://hunfloorball.hu/index.php?ch_id=19&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Utánpótlás Lány U19",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Utánpótlás Lány U16",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Utánpótlás Fiú U19",
+            "value": "11",
+            "url": "http://hunfloorball.hu/index.php?ch_id=11&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "Utánpótlás Fiú U16",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Unihoki U11",
+            "value": "14",
+            "url": "http://hunfloorball.hu/index.php?ch_id=14&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Unihoki U9",
+            "value": "15",
+            "url": "http://hunfloorball.hu/index.php?ch_id=15&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "Utánpótlás U14 Lány",
+            "value": "21",
+            "url": "http://hunfloorball.hu/index.php?ch_id=21&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2019/2020": [
+        {
+            "text": "Salming Nõi OB",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "Salming Férfi OB1",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "    Salming Férfi OB1 - Rájátszás",
+            "value": "20",
+            "url": "http://hunfloorball.hu/index.php?ch_id=20&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "Férfi OB2",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "    Férfi OB2 Kelet",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "    Férfi OB2 Nyugat",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "    Férfi OB2 Rájátszás - Felsõház",
+            "value": "16",
+            "url": "http://hunfloorball.hu/index.php?ch_id=16&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "    Férfi OB2 Rájátszás - Alsóház",
+            "value": "19",
+            "url": "http://hunfloorball.hu/index.php?ch_id=19&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Utánpótlás Lány U19",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "Utánpótlás Lány U16",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Utánpótlás Lány U13",
+            "value": "10",
+            "url": "http://hunfloorball.hu/index.php?ch_id=10&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Utánpótlás Fiú U19",
+            "value": "11",
+            "url": "http://hunfloorball.hu/index.php?ch_id=11&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "Utánpótlás Fiú U16",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2018/2019": [
+        {
+            "text": "Salming nõi OB",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "    Salming nõi OB rájátszás",
+            "value": "14",
+            "url": "http://hunfloorball.hu/index.php?ch_id=14&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "Salming Férfi OB1",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "    Salming Férfi OB1 rájátszás",
+            "value": "13",
+            "url": "http://hunfloorball.hu/index.php?ch_id=13&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "Férfi OB2",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "floorballer.hu OB3",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Ligakupa",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "    Ligakupa A csoport",
+            "value": "15",
+            "url": "http://hunfloorball.hu/index.php?ch_id=15&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "    Ligakupa B csoport",
+            "value": "16",
+            "url": "http://hunfloorball.hu/index.php?ch_id=16&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "    Ligakupa helyosztók",
+            "value": "17",
+            "url": "http://hunfloorball.hu/index.php?ch_id=17&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Utánpótlás lány U15",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Utánpótlás lány U13",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "Utánpótlás fiú U17",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2017/2018": [
+        {
+            "text": "Salming OB1",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "    Salming OB1 rájátszás felsõház",
+            "value": "14",
+            "url": "http://hunfloorball.hu/index.php?ch_id=14&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "    Salming OB1 rájátszás alsóház",
+            "value": "15",
+            "url": "http://hunfloorball.hu/index.php?ch_id=15&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "Férfi OB2",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "floorballer.hu OB3",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "Salming nõi OB",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Fiú U17",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "Fiú U15",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Fiú U13",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Lány U15",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Lány U13",
+            "value": "13",
+            "url": "http://hunfloorball.hu/index.php?ch_id=13&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "10",
+            "url": "http://hunfloorball.hu/index.php?ch_id=10&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Szuperkupa",
+            "value": "11",
+            "url": "http://hunfloorball.hu/index.php?ch_id=11&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "MEFOB",
+            "value": "16",
+            "url": "http://hunfloorball.hu/index.php?ch_id=16&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2016/2017": [
+        {
+            "text": "Salming Férfi OB1",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "Férfi OB2",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "floorballer.hu OB3",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "Salming Nõi OB",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "Fiú U17",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "Fiú U15",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Fiú U13",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "Lány U18",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Lány U15",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Lány U13",
+            "value": "10",
+            "url": "http://hunfloorball.hu/index.php?ch_id=10&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "11",
+            "url": "http://hunfloorball.hu/index.php?ch_id=11&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Liga Kupa",
+            "value": "13",
+            "url": "http://hunfloorball.hu/index.php?ch_id=13&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Unihoki U11",
+            "value": "14",
+            "url": "http://hunfloorball.hu/index.php?ch_id=14&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "Unihoki U9",
+            "value": "15",
+            "url": "http://hunfloorball.hu/index.php?ch_id=15&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2015/2016": [
+        {
+            "text": "Salming Férfi OB1",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "Férfi OB2",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "Floorballer.hu OB3",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "    Floorballer.hu OB3 - Rájátszás",
+            "value": "16",
+            "url": "http://hunfloorball.hu/index.php?ch_id=16&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "Salming Nõi OB",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "Fiú U19",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Fiú U17",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "Fiú U15",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Fiú U13",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Lány U15",
+            "value": "10",
+            "url": "http://hunfloorball.hu/index.php?ch_id=10&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Lány U13",
+            "value": "11",
+            "url": "http://hunfloorball.hu/index.php?ch_id=11&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "U11",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Magyar Kupa férfi",
+            "value": "13",
+            "url": "http://hunfloorball.hu/index.php?ch_id=13&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Magyar Kupa nõi",
+            "value": "14",
+            "url": "http://hunfloorball.hu/index.php?ch_id=14&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "Szuperkupa",
+            "value": "15",
+            "url": "http://hunfloorball.hu/index.php?ch_id=15&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2014/2015": [
+        {
+            "text": "Férfi OB1",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "    FELSÕHÁZ",
+            "value": "24",
+            "url": "http://hunfloorball.hu/index.php?ch_id=24&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "    ALSÓHÁZ",
+            "value": "25",
+            "url": "http://hunfloorball.hu/index.php?ch_id=25&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "Férfi OB2",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "Férfi OB3",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "Nõi OB1",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Nõi OB2",
+            "value": "22",
+            "url": "http://hunfloorball.hu/index.php?ch_id=22&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Fiú U19",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Fiú U17",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "Fiú U15",
+            "value": "10",
+            "url": "http://hunfloorball.hu/index.php?ch_id=10&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Fiú U13",
+            "value": "11",
+            "url": "http://hunfloorball.hu/index.php?ch_id=11&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Lány U15",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "Lány U13",
+            "value": "13",
+            "url": "http://hunfloorball.hu/index.php?ch_id=13&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2013/2014": [
+        {
+            "text": "Salming OB1",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "    Salming OB1 - rájátszás (felsõház)",
+            "value": "37",
+            "url": "http://hunfloorball.hu/index.php?ch_id=37&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "    Salming OB1 - rájátszás (alsóház)",
+            "value": "38",
+            "url": "http://hunfloorball.hu/index.php?ch_id=38&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "Salming OB2",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "Salming Nõi OB",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "X3M OB3",
+            "value": "29",
+            "url": "http://hunfloorball.hu/index.php?ch_id=29&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "    FELSÕHÁZ",
+            "value": "39",
+            "url": "http://hunfloorball.hu/index.php?ch_id=39&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "    ALSÓHÁZ",
+            "value": "40",
+            "url": "http://hunfloorball.hu/index.php?ch_id=40&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "    Keleti-csoport",
+            "value": "30",
+            "url": "http://hunfloorball.hu/index.php?ch_id=30&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "    Budapesti-csoport",
+            "value": "31",
+            "url": "http://hunfloorball.hu/index.php?ch_id=31&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "    Nyugati-csoport",
+            "value": "32",
+            "url": "http://hunfloorball.hu/index.php?ch_id=32&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "Férfi MK",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "Nõi MK",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "U19",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "U19 nõi",
+            "value": "25",
+            "url": "http://hunfloorball.hu/index.php?ch_id=25&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2012/2013": [
+        {
+            "text": "Salming nõi OB1",
+            "value": "11",
+            "url": "http://hunfloorball.hu/index.php?ch_id=11&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "X3M OB1",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "floorballer.hu OB2",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "floorballer.hu OB3",
+            "value": "10",
+            "url": "http://hunfloorball.hu/index.php?ch_id=10&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "    floorballer.hu OB3 rájátszás - felsõház",
+            "value": "30",
+            "url": "http://hunfloorball.hu/index.php?ch_id=30&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "    floorballer.hu OB3 rájátszás - alsóház",
+            "value": "31",
+            "url": "http://hunfloorball.hu/index.php?ch_id=31&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "    Budapesti csoport",
+            "value": "17",
+            "url": "http://hunfloorball.hu/index.php?ch_id=17&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "    Keleti csoport",
+            "value": "18",
+            "url": "http://hunfloorball.hu/index.php?ch_id=18&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "    Nyugati csoport",
+            "value": "19",
+            "url": "http://hunfloorball.hu/index.php?ch_id=19&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "Erima fiú U19",
+            "value": "14",
+            "url": "http://hunfloorball.hu/index.php?ch_id=14&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "Erima fiú U16",
+            "value": "13",
+            "url": "http://hunfloorball.hu/index.php?ch_id=13&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "    Erima fiú U16 felsõház",
+            "value": "15",
+            "url": "http://hunfloorball.hu/index.php?ch_id=15&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "    Erima fiú U16 alsóház",
+            "value": "16",
+            "url": "http://hunfloorball.hu/index.php?ch_id=16&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "Erima fiú U14",
+            "value": "12",
+            "url": "http://hunfloorball.hu/index.php?ch_id=12&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "Unihoki",
+            "value": "22",
+            "url": "http://hunfloorball.hu/index.php?ch_id=22&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2011/2012": [
+        {
+            "text": "X3M OB1 - alapszakasz",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "X3M OB1 - felsõház",
+            "value": "110",
+            "url": "http://hunfloorball.hu/index.php?ch_id=110&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "X3M OB1 - alsóház",
+            "value": "111",
+            "url": "http://hunfloorball.hu/index.php?ch_id=111&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "Salming Nõi OB",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "floorballer.hu OB2 - Felsõház",
+            "value": "59",
+            "url": "http://hunfloorball.hu/index.php?ch_id=59&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "floorballer.hu OB2 - Alsóház",
+            "value": "60",
+            "url": "http://hunfloorball.hu/index.php?ch_id=60&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "floorballer.hu OB2 - Kelet",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "floorballer.hu OB2 - Nyugat",
+            "value": "55",
+            "url": "http://hunfloorball.hu/index.php?ch_id=55&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "floorballer.hu OB3",
+            "value": "3",
+            "url": "http://hunfloorball.hu/index.php?ch_id=3&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "    OB3 Döntõ",
+            "value": "114",
+            "url": "http://hunfloorball.hu/index.php?ch_id=114&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "    OB3 Bronzmérkõzés",
+            "value": "113",
+            "url": "http://hunfloorball.hu/index.php?ch_id=113&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "    OB3 5-6.helyért",
+            "value": "115",
+            "url": "http://hunfloorball.hu/index.php?ch_id=115&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "    OB3 7-8.helyért",
+            "value": "116",
+            "url": "http://hunfloorball.hu/index.php?ch_id=116&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "    OB3 9-10.helyért",
+            "value": "112",
+            "url": "http://hunfloorball.hu/index.php?ch_id=112&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "    FELSÕHÁZ(keresztjáték B)",
+            "value": "109",
+            "url": "http://hunfloorball.hu/index.php?ch_id=109&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2010/2011": [
+        {
+            "text": "Salming OBI",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "Salming férfi OBI alsóház",
+            "value": "39",
+            "url": "http://hunfloorball.hu/index.php?ch_id=39&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "Zone Nõi OB",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "Salming OBI/B",
+            "value": "2",
+            "url": "http://hunfloorball.hu/index.php?ch_id=2&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "Salming OBI/B Alsóház",
+            "value": "42",
+            "url": "http://hunfloorball.hu/index.php?ch_id=42&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "Férfi Magyar Kupa",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "Nõi Magyar Kupa",
+            "value": "6",
+            "url": "http://hunfloorball.hu/index.php?ch_id=6&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "    döntõ",
+            "value": "48",
+            "url": "http://hunfloorball.hu/index.php?ch_id=48&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "    elõdöntõk",
+            "value": "43",
+            "url": "http://hunfloorball.hu/index.php?ch_id=43&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "    \"A\" csoport",
+            "value": "13",
+            "url": "http://hunfloorball.hu/index.php?ch_id=13&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "    \"B\" csoport",
+            "value": "14",
+            "url": "http://hunfloorball.hu/index.php?ch_id=14&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "fiú 14",
+            "value": "7",
+            "url": "http://hunfloorball.hu/index.php?ch_id=7&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "fiú U16",
+            "value": "8",
+            "url": "http://hunfloorball.hu/index.php?ch_id=8&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "fiú U19",
+            "value": "9",
+            "url": "http://hunfloorball.hu/index.php?ch_id=9&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "fiú U21",
+            "value": "10",
+            "url": "http://hunfloorball.hu/index.php?ch_id=10&pg=floorball_matches&year=0809"
+        }
+    ],
+    "2009/2010": [
+        {
+            "text": "Salming Férfi OBI",
+            "value": "5",
+            "url": "http://hunfloorball.hu/index.php?ch_id=5&pg=floorball_matches&year=2223"
+        },
+        {
+            "text": "Osztályozó OBI",
+            "value": "72",
+            "url": "http://hunfloorball.hu/index.php?ch_id=72&pg=floorball_matches&year=2122"
+        },
+        {
+            "text": "Férfi OBI/B.",
+            "value": "4",
+            "url": "http://hunfloorball.hu/index.php?ch_id=4&pg=floorball_matches&year=2021"
+        },
+        {
+            "text": "    Alapszakasz",
+            "value": "69",
+            "url": "http://hunfloorball.hu/index.php?ch_id=69&pg=floorball_matches&year=1920"
+        },
+        {
+            "text": "    Rájátszás",
+            "value": "70",
+            "url": "http://hunfloorball.hu/index.php?ch_id=70&pg=floorball_matches&year=1819"
+        },
+        {
+            "text": "OBII",
+            "value": "1",
+            "url": "http://hunfloorball.hu/index.php?ch_id=1&pg=floorball_matches&year=1718"
+        },
+        {
+            "text": "    DÖNTÕ",
+            "value": "73",
+            "url": "http://hunfloorball.hu/index.php?ch_id=73&pg=floorball_matches&year=1617"
+        },
+        {
+            "text": "    3-4.HELYÉRT",
+            "value": "74",
+            "url": "http://hunfloorball.hu/index.php?ch_id=74&pg=floorball_matches&year=1516"
+        },
+        {
+            "text": "    5-6.HELYÉRT",
+            "value": "75",
+            "url": "http://hunfloorball.hu/index.php?ch_id=75&pg=floorball_matches&year=1415"
+        },
+        {
+            "text": "    7-8.HELYÉRT",
+            "value": "76",
+            "url": "http://hunfloorball.hu/index.php?ch_id=76&pg=floorball_matches&year=1314"
+        },
+        {
+            "text": "    9-12.helyért",
+            "value": "60",
+            "url": "http://hunfloorball.hu/index.php?ch_id=60&pg=floorball_matches&year=1213"
+        },
+        {
+            "text": "    Elõdöntõ-Kelet",
+            "value": "63",
+            "url": "http://hunfloorball.hu/index.php?ch_id=63&pg=floorball_matches&year=1112"
+        },
+        {
+            "text": "    Elõdöntõ-Nyugat",
+            "value": "61",
+            "url": "http://hunfloorball.hu/index.php?ch_id=61&pg=floorball_matches&year=1011"
+        },
+        {
+            "text": "    Felsõház-ÉK",
+            "value": "48",
+            "url": "http://hunfloorball.hu/index.php?ch_id=48&pg=floorball_matches&year=0910"
+        },
+        {
+            "text": "    Felsõház-Dél",
+            "value": "46",
+            "url": "http://hunfloorball.hu/index.php?ch_id=46&pg=floorball_matches&year=0809"
+        }
+    ]
+}

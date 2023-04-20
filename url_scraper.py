@@ -1,4 +1,5 @@
 import requests
+import json
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse, parse_qs
 
@@ -53,3 +54,25 @@ for link_text, options_list in grouped_options.items():
         option_url = create_option_url(url, value, year)
         print(f"    {text}: {value}")
         print(f"    URL: {option_url}")
+
+def save_to_json_file(result, filename):
+    with open(filename, 'w') as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
+
+def run_script():
+    filtered_links = scrape_links(url)
+    grouped_options = scrape_options(filtered_links)
+    
+    result = {}
+    for link_text, options_list in grouped_options.items():
+        result[link_text] = []
+        for link, (value, text) in zip(filtered_links, options_list):
+            year = parse_qs(urlparse(link[0]).query).get('year', [''])[0]
+            option_url = create_option_url(url, value, year)
+            result[link_text].append({'text': text, 'value': value, 'url': option_url})
+    
+    return result
+
+if __name__ == '__main__':
+    result = run_script()
+    save_to_json_file(result, 'output.json')
