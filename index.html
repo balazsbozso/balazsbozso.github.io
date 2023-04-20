@@ -18,6 +18,7 @@
 
         .dark-mode .list-group-item {
             background-color: #333;
+            color: white;
         }
 
         .dark-mode a {
@@ -35,7 +36,6 @@
 </head>
 <body>
     <div class="container mt-5">
-        <button id="load-results" class="btn btn-primary">Load Results</button>
         <button id="toggle-dark-mode" class="btn btn-secondary ms-2">Dark Mode</button>
         <div id="output" class="mt-4">
             <!-- Results will be populated here -->
@@ -44,7 +44,7 @@
 
     <script>
         $(document).ready(function() {
-            $('#load-results').on('click', function() {
+            function loadResults() {
                 $.ajax({
                     url: 'output.json',
                     dataType: 'json',
@@ -82,7 +82,9 @@
                         $('#output').html(output);
                     }
                 });
-            });
+            }
+
+            loadResults();
 
             $('#toggle-dark-mode').on('click', function() {
                 $('body').toggleClass('dark-mode');
