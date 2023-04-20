@@ -18,7 +18,7 @@
 
         .dark-mode .list-group-item {
             background-color: #333;
-            color: white;
+            color: white; /* Text color in cards when dark mode is enabled */
         }
 
         .dark-mode a {
@@ -43,48 +43,48 @@
     </div>
 
     <script>
-        $(document).ready(function() {
-            function loadResults() {
-                $.ajax({
-                    url: 'output.json',
-                    dataType: 'json',
-                    contentType: 'application/json;charset=utf-8',
-                    success: function(result) {
-                        var output = '';
-                        for (var link_text in result) {
-                            output += `
-                                <div class="card mt-3">
-                                    <div class="card-header">
-                                        <h5 class="mb-0">
-                                            <button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#${link_text}">
-                                                ${link_text}
-                                            </button>
-                                        </h5>
-                                    </div>
-                                    <div id="${link_text}" class="collapse">
-                                        <ul class="list-group list-group-flush">`;
+        function loadResults() {
+            $.ajax({
+                url: 'output.json',
+                dataType: 'json',
+                contentType: 'application/json;charset=utf-8',
+                success: function(result) {
+                    var output = '';
+                    for (var link_text in result) {
+                        output += `
+                            <div class="card mt-3">
+                                <div class="card-header">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#${link_text}">
+                                            ${link_text}
+                                        </button>
+                                    </h5>
+                                </div>
+                                <div id="${link_text}" class="collapse">
+                                    <ul class="list-group list-group-flush">`;
 
-                            result[link_text].forEach(function(option) {
-                                output += `
-                                    <li class="list-group-item">
-                                        <div class="d-flex justify-content-between">
-                                            <span>${option.text}: ${option.value}</span>
-                                            <a href="${option.url}" target="_blank">URL</a>
-                                        </div>
-                                    </li>`;
-                            });
-
+                        result[link_text].forEach(function(option) {
                             output += `
-                                        </ul>
+                                <li class="list-group-item">
+                                    <div class="d-flex justify-content-between">
+                                        <span>${option.text}: ${option.value}</span>
+                                        <a href="${option.url}" target="_blank">URL</a>
                                     </div>
-                                </div>`;
-                        }
-                        $('#output').html(output);
+                                </li>`;
+                        });
+
+                        output += `
+                                    </ul>
+                                </div>
+                            </div>`;
                     }
-                });
-            }
+                    $('#output').html(output);
+                }
+            });
+        }
 
-            loadResults();
+        $(document).ready(function() {
+            loadResults(); // Automatically load the results when the page is loaded
 
             $('#toggle-dark-mode').on('click', function() {
                 $('body').toggleClass('dark-mode');
