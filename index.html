@@ -14,24 +14,23 @@
             background-color: #333;
             color: #ddd;
         }
-    
+
         .dark-mode .list-group-item {
             background-color: #333;
         }
-    
+
         .dark-mode a {
             color: #a3daff;
         }
-    
+
         .dark-mode .btn-link {
             color: #a3daff;
         }
-    
+
         .dark-mode .card-header {
             background-color: #444;
         }
     </style>
-    
 </head>
 <body>
     <div class="container mt-5">
@@ -43,47 +42,51 @@
     </div>
 
     <script>
-        $('#toggle-dark-mode').on('click', function() {
-            $('body').toggleClass('dark-mode');
-        });
-
         $(document).ready(function() {
             $('#load-results').on('click', function() {
                 $.ajax({
-                url: 'output.json',
-                dataType: 'json',
-                contentType: 'application/json;charset=utf-8',
-                success: function(result) {
-                    var output = `
-                            <div class="card mt-3">
-                                <div class="card-header">
-                                    <h5 class="mb-0">
-                                        <button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#${link_text}">
-                                            ${link_text}
-                                        </button>
-                                    </h5>
-                                </div>
-                                <div id="${link_text}" class="collapse">
-                                    <ul class="list-group list-group-flush">`;
-
-                        result[link_text].forEach(function(option) {
+                    url: 'output.json',
+                    dataType: 'json',
+                    contentType: 'application/json;charset=utf-8',
+                    success: function(result) {
+                        var output = '';
+                        for (var link_text in result) {
                             output += `
-                                <li class="list-group-item">
-                                    <div class="d-flex justify-content-between">
-                                        <span>${option.text}: ${option.value}</span>
-                                        <a href="${option.url}" target="_blank">URL</a>
+                                <div class="card mt-3">
+                                    <div class="card-header">
+                                        <h5 class="mb-0">
+                                            <button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#${link_text}">
+                                                ${link_text}
+                                            </button>
+                                        </h5>
                                     </div>
-                                </li>`;
-                        });
+                                    <div id="${link_text}" class="collapse">
+                                        <ul class="list-group list-group-flush">`;
 
-                        output += `
-                                    </ul>
-                                </div>
-                            </div>`;
+                            result[link_text].forEach(function(option) {
+                                output += `
+                                    <li class="list-group-item">
+                                        <div class="d-flex justify-content-between">
+                                            <span>${option.text}: ${option.value}</span>
+                                            <a href="${option.url}" target="_blank">URL</a>
+                                        </div>
+                                    </li>`;
+                            });
+
+                            output += `
+                                        </ul>
+                                    </div>
+                                </div>`;
+                        }
+                        $('#output').html(output);
                     }
-                    $('#output').html(output);
                 });
+            });
+
+            $('#toggle-dark-mode').on('click', function() {
+                $('body').toggleClass('dark-mode');
             });
         });
     </script>
 </body>
+</html>
