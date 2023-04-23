@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.card {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 16px;
+    margin: 16px 0;
+}
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
+button {
+    cursor: pointer;
+    background-color: #007BFF;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    border-radius: 4px;
+}
+button:hover {
+    background-color: #0069D9;
+}
