@@ -2,91 +2,83 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Execute Python Script</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+    <title>Hunfloorball Scraper Results</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .card {
+            background-color: white;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            padding: 16px;
+            margin: 16px 0;
+        }
         .dark-mode {
-            background-color: #333;
-            color: #ddd;
+            background-color: #222;
+            color: white;
         }
-
-        .dark-mode .list-group-item {
-            background-color: #333;
+        button {
+            cursor: pointer;
+            background-color: #007BFF;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            margin: 4px 2px;
+            transition-duration: 0.4s;
+            border-radius: 4px;
         }
-
-        .dark-mode a {
-            color: #a3daff;
-        }
-
-        .dark-mode .btn-link {
-            color: #a3daff;
-        }
-
-        .dark-mode .card-header {
-            background-color: #444;
+        button:hover {
+            background-color: #0069D9;
         }
     </style>
 </head>
 <body>
-    <div class="container mt-5">
-        <button id="load-results" class="btn btn-primary">Load Results</button>
-        <button id="toggle-dark-mode" class="btn btn-secondary ms-2">Dark Mode</button>
-        <div id="output" class="mt-4">
-            <!-- Results will be populated here -->
-        </div>
-    </div>
+    <button id="loadResults">Load Results</button>
+    <button id="toggleDarkMode">Toggle Dark Mode</button>
+    <div id="results"></div>
 
     <script>
-        $(document).ready(function() {
-            $('#load-results').on('click', function() {
-                $.ajax({
-                    url: 'output.json',
-                    dataType: 'json',
-                    contentType: 'application/json;charset=utf-8',
-                    success: function(result) {
-                        var output = '';
-                        for (var link_text in result) {
-                            output += `
-                                <div class="card mt-3">
-                                    <div class="card-header">
-                                        <h5 class="mb-0">
-                                            <button class="btn btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#${link_text}">
-                                                ${link_text}
-                                            </button>
-                                        </h5>
-                                    </div>
-                                    <div id="${link_text}" class="collapse">
-                                        <ul class="list-group list-group-flush">`;
-
-                            result[link_text].forEach(function(option) {
-                                output += `
-                                    <li class="list-group-item">
-                                        <div class="d-flex justify-content-between">
-                                            <span>${option.text}: ${option.value}</span>
-                                            <a href="${option.url}" target="_blank">URL</a>
-                                        </div>
-                                    </li>`;
-                            });
-
-                            output += `
-                                        </ul>
-                                    </div>
-                                </div>`;
-                        }
-                        $('#output').html(output);
-                    }
+        function loadResults() {
+            fetch('output.json')
+                .then(response => response.json())
+                .then(data => {
+                    displayResults(data);
+                })
+                .catch(error => {
+                    console.error('Error fetching JSON data:', error);
                 });
-            });
+        }
 
-            $('#toggle-dark-mode').on('click', function() {
-                $('body').toggleClass('dark-mode');
-            });
-        });
+        function toggleDarkMode() {
+            document.body.classList.toggle('dark-mode');
+            const cards = document.getElementsByClassName('card');
+            for (let card of cards) {
+                card.classList.toggle('dark-mode');
+            }
+        }
+
+        function displayResults(data) {
+            const resultsDiv = document.getElementById('results');
+            for (let item of data) {
+                const card = document.createElement('div');
+                card.className = 'card';
+                card.innerHTML = `
+                    <h3>${item.text}</h3>
+                    <p>Value: ${item.value}</p>
+                    <p>URL: ${item.url}</p>
+                `;
+                resultsDiv.appendChild(card);
+            }
+        }
+
+        document.getElementById('loadResults').addEventListener('click', loadResults);
+        document.getElementById('toggleDarkMode').addEventListener('click', toggleDarkMode);
     </script>
 </body>
 </html>
